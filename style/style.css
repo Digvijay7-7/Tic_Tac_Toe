@@ -1,0 +1,29 @@
+
+    body{
+        background-color: #ff9600;
+    }
+
+    h1{
+        text-align: center;
+
+    }
+
+    #divGame{
+        width: 300px;
+        height: 300px;
+        margin: 0 auto;
+    }
+
+    .tcell{
+        float: left;
+        width: 30%;
+        height: 30%;
+        padding: 2px;
+        border: solid 1px black;        
+        line-height:95px;
+        font-size: 50px;
+        text-align: center;
+        background-color: #e9cca3;
+    }
+
+    
